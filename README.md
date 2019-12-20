@@ -7,6 +7,8 @@ pix2pix-keras
 ## train_on a mini batch
 > train_onbatch.ipynh
 
+
 ## others
 train.ipynb is the first version for me to see the detail during training process.
+jpgtogif.py tranform a batch jpg pic into gif
 

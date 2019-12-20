@@ -3,3 +3,9 @@ facades
 pic_db
 *.jpg
 log
+*.swp
+test.py
+tmp.py
+train_on_one.ipynb
+generator.py
+predict.ipynb
